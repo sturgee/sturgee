@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sturgee
+- 👀 I’m interested in mobile development (specifically android)
+- 🌱 I’m currently learning Java.
+- 📫 Reach me: @sturgee at discord.
+- 😄 Pronouns: he/him
